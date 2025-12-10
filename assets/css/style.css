@@ -35,7 +35,7 @@ html{
     background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb{
-    background:rgb(239, 180, 128);
+    background:rgb(239, 181, 128);
     border-radius: 30px;
 }
 ::-webkit-scrollbar-thumb:hover{
